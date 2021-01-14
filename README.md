@@ -1,4 +1,7 @@
-### Hi there 👋
+# Bienvenidos a mi Github de AprendeTINetwork
+Repositorio donde te compartire todos mis codigos compartidos en los videos de mi canal:
+[Visita mi Canal](https://www.youtube.com/c/AprendeTINetwork/)
+Te invito a que te Suscribas.....Muchas gracias, muchos exitos.
 
 <!--
 **aprendetinetwork/aprendetinetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
